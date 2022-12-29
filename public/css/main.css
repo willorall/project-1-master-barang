@@ -1,0 +1,9 @@
+.carousel-item img{
+    height: 500px;
+}
+.carousel-caption p{
+    height: 200px;
+}
+.btn a{
+    color: white;
+}
